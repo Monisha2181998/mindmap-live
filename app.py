@@ -1,3 +1,6 @@
+import os
+os.system("python -m spacy download en_core_web_sm")
+
 import gradio as gr
 from database import save_note, get_all_notes
 from nlp_extractor import extract_concepts
