@@ -7,7 +7,7 @@
 ## 🚀 Core Pillars
 
 ### 🔍 LLM-Powered Synthesis
-Integrated with the **Gemini 3 Flash** model, the portal performs semantic analysis on uploaded PDFs[cite: 1]. It generates **AI Connection Insights** that explain how new methodology (e.g., NLP requirement extraction) aligns with or diverges from existing theoretical frameworks like Statistical Relational Learning[cite: 1].
+Integrated with the **Qwen** model series, the portal performs semantic analysis on uploaded PDFs.[cite: 1] It generates **AI Connection Insights** that explain how new methodology (e.g., NLP requirement extraction) aligns with or diverges from existing theoretical frameworks like Statistical Relational Learning.[cite: 1]
 
 ### 🕸️ Dynamic Knowledge Graphing
 Utilizing a custom radial-layout engine, the system maps entities and technical concepts into an interactive graph[cite: 1]. This allows researchers to visualize the density of their research topics and identify "missing links" in their theoretical map[cite: 1].
