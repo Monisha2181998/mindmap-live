@@ -63,6 +63,8 @@ A persistent database tracks the evolution of your literature review[cite: 1]. E
 
 ## 🖼️ Visual Preview
 
-![MindMap Live Dashboard](https://raw.githubusercontent.com/Monisha2181998/mindmap-live/main/image_86478e.jpg)Here is the complete content for your **README.md** file, specifically formatted to be high-impact for your **ScaDS.AI** application. You can copy this entire block directly into your GitHub editor[cite: 1].
+![MindMap Live Dashboard])
+
+<img width="1881" height="883" alt="image" src="https://github.com/user-attachments/assets/3d1efae5-627b-46a3-8a2c-db6b655d62e9" />
 
 ---
