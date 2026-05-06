@@ -1,5 +1,7 @@
 gradio
-spacy
+plotly
 networkx
-huggingface_hub
+spacy
 sqlalchemy
+huggingface_hub
+PyMuPDF
