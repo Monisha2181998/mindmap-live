@@ -33,8 +33,8 @@ A persistent database tracks the evolution of your literature review[cite: 1]. E
 
 ---
 
-## 🎯 Alignment with ScaDS.AI / LLM-OCR-D
-This project demonstrates technical competency in areas critical to the **ScaDS.AI** research initiative:
+## 🎯 Alignment 
+
 1.  **Automated Post-Correction:** Using LLMs to refine and structure extracted text[cite: 1].
 2.  **Knowledge Representation:** Building scalable graphs for scholarly reuse of digitized collections[cite: 1].
 3.  **High-Level UI/UX:** Designing functional dashboards for complex data analytics[cite: 1].
